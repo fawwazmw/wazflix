@@ -69,11 +69,11 @@ lib/
 
 Kami sangat terbuka terhadap kontribusi untuk mengembangkan aplikasi ini lebih baik lagi. Berikut adalah langkah-langkah untuk berkontribusi:
 
-- 1. Fork repository ini.
-- 2. Buat branch fitur baru (git checkout -b feature/AmazingFeature).
-- 3. Commit perubahan Anda (git commit -m 'Add some AmazingFeature').
-- 4. Push ke branch (git push origin feature/AmazingFeature).
-- 5. Buat Pull Request.
+1. Fork repository ini.
+2. Buat branch fitur baru (git checkout -b feature/AmazingFeature).
+3. Commit perubahan Anda (git commit -m 'Add some AmazingFeature').
+4. Push ke branch (git push origin feature/AmazingFeature).
+5. Buat Pull Request.
 
 ## Lisensi
 
