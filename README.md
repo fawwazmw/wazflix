@@ -53,13 +53,13 @@ Wazflix App adalah aplikasi mobile yang menampilkan daftar film populer serta in
 ## Struktur Folder
 
 lib/
-│
-├── models/ # Model data untuk film, pemain, dan lainnya
-├── services/ # File untuk memanggil API
-├── providers/ # State management untuk film dan detail film
-├── screens/ # Tampilan UI aplikasi
-├── widgets/ # Komponen widget yang digunakan berulang kali
-└── main.dart # Entry point aplikasi
+|
+|-- models/
+|-- services/
+|-- providers/
+|-- screens/
+|-- widgets/
+|-- main.dart/
 
 ## API yang Digunakan
 
