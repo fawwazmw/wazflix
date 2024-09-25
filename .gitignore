@@ -1,0 +1,119 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter specific
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Android related
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/.idea
+**/android/.settings/
+**/android/.classpath
+**/android/.project
+**/android/build/
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+
+# iOS related
+**/ios/Flutter/.last_build_id
+**/ios/.generated/
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/.dart_tool/
+**/ios/.metadata
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/.DS_Store
+**/ios/build/
+
+# MacOS related
+**/macos/.generated/
+**/macos/.symlinks/
+**/macos/.dart_tool/
+**/macos/.DS_Store
+**/macos/build/
+
+# Linux related
+**/linux/.generated/
+**/linux/.symlinks/
+**/linux/.dart_tool/
+**/linux/build/
+
+# Windows related
+**/windows/.generated/
+**/windows/.symlinks/
+**/windows/.dart_tool/
+**/windows/build/
+
+# Web related
+**/web/.generated/
+**/web/.symlinks/
+**/web/.dart_tool/
+**/web/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Package files
+.packages
+.pubspec.lock
+
+# Generated files
+generated_plugin_registrant.dart
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Coverage related
+coverage/
+.dart_tool/coverage/
+
+# Localization generated files
+.l10n/
+
+# Firebase related
+firebase_app_id_file.json
